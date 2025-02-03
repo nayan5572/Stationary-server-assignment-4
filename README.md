@@ -4,8 +4,8 @@ Welcome to Stationary Shop, your one-stop destination for high-quality Stationar
 
 ### 🌐 Live Demo
 
-🔗 Live Link: Visit NS Stationary Shop ([Stationary Shop](https://stationery-shop-dusky.vercel.app/))
-🔗 Server Link: Visit NS Stationary Shop ([#Server](https://stationary-shop-server-chi.vercel.app))
+🔗 Live Link: Visit Stationary Shop ([Stationary Shop](https://stationery-shop-main.vercel.app/))
+🔗 Server Link: Visit Stationary Shop ([#Server](https://stationery-shop-server-main.vercel.app/))
 
 ### 🚀 Features
 
